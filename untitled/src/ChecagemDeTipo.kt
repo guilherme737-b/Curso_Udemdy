@@ -1,0 +1,11 @@
+fun main() {
+    val valor = "É uma String"
+
+
+    if (valor is String)
+        println(valor)
+     else if (valor !is String)
+        println("Não é uma String")
+
+
+}

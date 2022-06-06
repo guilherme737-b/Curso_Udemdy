@@ -1,5 +1,5 @@
 fun main() {
-    var a: Int = 7
+    val a: Int = 7
     var b: Int = 3
 
     b += a
